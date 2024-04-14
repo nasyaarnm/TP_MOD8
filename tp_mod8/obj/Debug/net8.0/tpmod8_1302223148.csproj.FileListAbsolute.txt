@@ -1,0 +1,15 @@
+D:\KPL\tp_mod8\tp_mod8\obj\Debug\net8.0\tpmod8_1302223148.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL\tp_mod8\tp_mod8\obj\Debug\net8.0\tpmod8_1302223148.AssemblyInfoInputs.cache
+D:\KPL\tp_mod8\tp_mod8\obj\Debug\net8.0\tpmod8_1302223148.AssemblyInfo.cs
+D:\KPL\tp_mod8\tp_mod8\obj\Debug\net8.0\tpmod8_1302223148.csproj.CoreCompileInputs.cache
+D:\KPL\tp_mod8\tp_mod8\obj\Debug\net8.0\tpmod8_1302223148.sourcelink.json
+D:\KPL\tp_mod8\tp_mod8\bin\Debug\net8.0\tpmod8_1302223148.exe
+D:\KPL\tp_mod8\tp_mod8\bin\Debug\net8.0\tpmod8_1302223148.deps.json
+D:\KPL\tp_mod8\tp_mod8\bin\Debug\net8.0\tpmod8_1302223148.runtimeconfig.json
+D:\KPL\tp_mod8\tp_mod8\bin\Debug\net8.0\tpmod8_1302223148.dll
+D:\KPL\tp_mod8\tp_mod8\bin\Debug\net8.0\tpmod8_1302223148.pdb
+D:\KPL\tp_mod8\tp_mod8\obj\Debug\net8.0\tpmod8_1302223148.dll
+D:\KPL\tp_mod8\tp_mod8\obj\Debug\net8.0\refint\tpmod8_1302223148.dll
+D:\KPL\tp_mod8\tp_mod8\obj\Debug\net8.0\tpmod8_1302223148.pdb
+D:\KPL\tp_mod8\tp_mod8\obj\Debug\net8.0\tpmod8_1302223148.genruntimeconfig.cache
+D:\KPL\tp_mod8\tp_mod8\obj\Debug\net8.0\ref\tpmod8_1302223148.dll
